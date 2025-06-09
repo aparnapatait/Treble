@@ -1,0 +1,7 @@
+magenta==2.1.3
+tensorflow==1.15.2
+tensorflow-estimator==1.15.1
+numpy==1.19.5
+note-seq==0.0.3
+protobuf==3.20.3
+# Skip python-rtmidi which causes build errors

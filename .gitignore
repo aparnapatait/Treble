@@ -1,0 +1,21 @@
+node_modules
+.expo
+.vscode
+*.log
+.DS_Store
+
+# Ignore model checkpoints
+checkpoints/
+*.ckpt
+*.data-*
+
+# Ignore virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore large pack files
+*.pack
+*.idx
